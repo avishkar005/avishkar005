@@ -15,7 +15,7 @@ I love building impactful tech solutions — from AI-powered fraud-free platform
 </p>
 
 <ul>
-  <li>💡 Currently exploring: <b>JavaFX | AI/ML | Flutter | Blockchain</b></li>
+  <li>💡 Currently exploring: <b>Data Analysis | AI/ML | Flutter | Blockchain</b></li>
   <li>🔍 Actively solving problems on <b>LeetCode</b></li>
   <li>🎯 Goal: Build innovative, user-focused products and contribute to open-source projects</li>
   <li>🏆 Winner of district-level elocution competition</li>
@@ -27,15 +27,17 @@ I love building impactful tech solutions — from AI-powered fraud-free platform
 
 **Languages:**  
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
 **Frameworks & Tools:**  
 <p>
-  <img src="https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-007396?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
