@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <p>
-I'm a passionate and curious IT Engineering student from Pune, India, currently in my second year at 
+I'm a passionate and curious IT Engineering student from Pune, India, currently in my third year at 
 <b>Smt. Kashibai Navle College of Engineering</b>.  
 I enjoy turning raw data into meaningful insights and building impactful tech solutions — from AI-powered fraud-free platforms to smart agriculture systems. Always eager to learn, solve problems, and create value.
 </p>
